@@ -1,16 +1,19 @@
-## Hi there 👋
+😊 **Welcome aboard, fellow explorer!**  
+I'm **Borobhai Rion**, a curious developer who loves building creative and minimal solutions. Here, you'll find my experiments, practice projects, and real-world builds — mostly focused on:
 
-<!--
-**BorobhaiRion/BorobhaiRion** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+🛠️ **Tech I Love Working With:**  
+- `HTML`, `CSS`, `Tailwind CSS` – for clean, responsive UIs  
+- `JavaScript`, `React.js` – bringing pages to life  
+- `C`, `C++`, `Python` – my coding fundamentals  
+- `Unity`, `C#` – game development playground  
+- `SQL`, `SQLite` – for solid data handling  
+- 🤖 Dipping into `AI/ML` & `YOLO` for computer vision
 
-Here are some ideas to get you started:
+📁 **Repos Worth Checking Out:**  
+- ⚔️ **Scholar vs Warrior** – My Unity game project  
+- 🌐 **Portfolio builds** – Clean, animated frontend showcases  
+- 📊 **YOLOv8 Vehicle Tracker** – A Colab-ready tool for traffic analysis  
+- 💾 **SQLite Login Systems** – Offline authentication with Unity
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+🔍 I'm always learning, testing new tools, and turning ideas into working code.  
+💬 Feel free to explore, fork, or drop a star ⭐ if something catches your eye.
