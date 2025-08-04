@@ -1,3 +1,7 @@
+![Intro GIF](https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExNnV4cmJlbDdlcHMweHE0cHZrNHdnenlyeHhrNDc5M3IyZzR5Zm9obSZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/ZVik7pBtu9dNS/giphy.gif)
+
+
+
 😊 **Welcome aboard, fellow explorer!**  
 I'm **Borobhai Rion**, a curious Engineer who loves building creative and minimal solutions.  
 Here, you'll find my experiments, practice projects, and real-world builds — mostly focused on: Learning new Technologies and building something with that.
