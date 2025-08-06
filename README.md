@@ -2,7 +2,7 @@
 
 
 
-😊 **Welcome aboard, fellow explorer!**  
+😊 **Welcome aboard!**  
 I'm **Borobhai Rion**, a curious Engineer who loves building creative and minimal solutions.  
 Here, you'll find my experiments, practice projects, and real-world builds — mostly focused on: Learning new Technologies and building something with that.
 
